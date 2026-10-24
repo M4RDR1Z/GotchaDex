@@ -1,6 +1,6 @@
 {
-  "version": "3.4.4",
-  "apk": "GotchaDex-3.4.4.apk",
-  "size": 2250109,
-  "notes": "- La rareza oficial de las cartas ya no se puede cambiar por error\n- En tus colecciones propias, solo puedes elegir entre las rarezas que usa esa colección"
+  "version": "3.5",
+  "apk": "GotchaDex-3.5.apk",
+  "size": 2986665,
+  "notes": "- Foto del checklist: para álbumes sin lista en internet, haz una foto a la lista impresa y se lee sola\n- Crear por tramos: «1-20 Alavés, 21-40 Almería…» y cada tramo es una categoría\n- Compartir la lista con un amigo: le llega la colección montada (sin lo que tú tienes)\n- Pegar un enlace ya funciona: la web se abre delante y se lee sola\n- Actualizar una colección desde su web sin perder lo marcado\n- LastSticker: ahora entran las cartas «bis» y cada equipo es una categoría"
 }
