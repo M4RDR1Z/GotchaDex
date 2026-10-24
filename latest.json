@@ -1,6 +1,6 @@
 {
-  "version": "3.4",
-  "apk": "GotchaDex-3.4.apk",
-  "size": 2229893,
-  "notes": "- Detalles de cada carta: estado, idioma, foil, 1ª edición, gradeo, precio, dónde la conseguiste y notas\n- Cuánto llevas gastado en cada colección\n- Cartas sueltas: cartas que no son de ninguna colección, con su foto y sus detalles\n- Una carta suelta puede contar en una colección si tú lo marcas"
+  "version": "3.4.1",
+  "apk": "GotchaDex-3.4.1.apk",
+  "size": 2249129,
+  "notes": "- Nueva pantalla de «Nueva colección»: buscador arriba, juegos en mosaicos y el resto ordenado por secciones\n- Detalles de cada carta y cartas sueltas (de la 3.4)"
 }
