@@ -1,6 +1,6 @@
 {
-  "version": "3.4.3",
-  "apk": "GotchaDex-3.4.3.apk",
-  "size": 2249645,
-  "notes": "- Arreglado el icono de Magic (Loto Negro)\n- Palworld lleva a Depresso como icono\n- Autoría en «Acerca de»"
+  "version": "3.4.4",
+  "apk": "GotchaDex-3.4.4.apk",
+  "size": 2250109,
+  "notes": "- La rareza oficial de las cartas ya no se puede cambiar por error\n- En tus colecciones propias, solo puedes elegir entre las rarezas que usa esa colección"
 }
