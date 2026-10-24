@@ -1,6 +1,6 @@
 {
- "version": "3.5.5",
- "apk": "GotchaDex-3.5.5.apk",
- "size": 2991493,
- "notes": "- Marcar varias: ahora puedes elegir varias categorías (equipos, secciones…) a la vez\n- Álbumes por equipos: cada equipo en su hoja y las rarezas al final\n- Se ve el número real del cromo (18B, 6BIS…)"
+ "version": "3.5.6",
+ "apk": "GotchaDex-3.5.6.apk",
+ "size": 2996925,
+ "notes": "- Menú de la colección más claro: lo más usado arriba y el resto por grupos, con iconos\n- Marcar varias: puedes elegir varias categorías a la vez\n- Álbumes por equipos: cada equipo en su hoja y las rarezas al final"
 }
