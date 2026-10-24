@@ -1,6 +1,6 @@
 {
-  "version": "3.5.1",
-  "apk": "GotchaDex-3.5.1.apk",
+  "version": "3.5.2",
+  "apk": "GotchaDex-3.5.2.apk",
   "size": 2989637,
-  "notes": "- Biblioteca de listas: colecciones montadas por otros coleccionistas, listas para usar\n- (de la 3.5) Foto del checklist, crear por tramos, compartir listas y enlaces arreglados"
+  "notes": "- La Biblioteca de listas acepta también archivos .txt y .csv escritos a mano\n- (de la 3.5.1) Biblioteca de listas"
 }
