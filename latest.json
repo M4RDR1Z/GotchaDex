@@ -1,6 +1,6 @@
 {
-  "version": "3.3",
-  "apk": "GotchaDex-3.3.apk",
-  "size": 2190873,
-  "notes": "- Aviso dentro de la app cuando hay una versión nueva, con descarga e instalación\n- Los nombres de las rarezas salen en el idioma del móvil\n- Pokémon: colecciones de WikiDex (McDonald's, POP, promos, kits…) y Trick or Trade\n- Puedes marcar una colección como completada aunque te falten cartas"
+  "version": "3.4",
+  "apk": "GotchaDex-3.4.apk",
+  "size": 2229893,
+  "notes": "- Detalles de cada carta: estado, idioma, foil, 1ª edición, gradeo, precio, dónde la conseguiste y notas\n- Cuánto llevas gastado en cada colección\n- Cartas sueltas: cartas que no son de ninguna colección, con su foto y sus detalles\n- Una carta suelta puede contar en una colección si tú lo marcas"
 }
