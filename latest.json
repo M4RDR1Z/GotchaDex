@@ -1,6 +1,6 @@
 {
-  "version": "3.5",
-  "apk": "GotchaDex-3.5.apk",
-  "size": 2986665,
-  "notes": "- Foto del checklist: para álbumes sin lista en internet, haz una foto a la lista impresa y se lee sola\n- Crear por tramos: «1-20 Alavés, 21-40 Almería…» y cada tramo es una categoría\n- Compartir la lista con un amigo: le llega la colección montada (sin lo que tú tienes)\n- Pegar un enlace ya funciona: la web se abre delante y se lee sola\n- Actualizar una colección desde su web sin perder lo marcado\n- LastSticker: ahora entran las cartas «bis» y cada equipo es una categoría"
+  "version": "3.5.1",
+  "apk": "GotchaDex-3.5.1.apk",
+  "size": 2989637,
+  "notes": "- Biblioteca de listas: colecciones montadas por otros coleccionistas, listas para usar\n- (de la 3.5) Foto del checklist, crear por tramos, compartir listas y enlaces arreglados"
 }
