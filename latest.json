@@ -1,6 +1,6 @@
 {
-  "version": "3.5.2",
-  "apk": "GotchaDex-3.5.2.apk",
-  "size": 2989637,
-  "notes": "- La Biblioteca de listas acepta también archivos .txt y .csv escritos a mano\n- (de la 3.5.1) Biblioteca de listas"
+ "version": "3.5.3",
+ "apk": "GotchaDex-3.5.3.apk",
+ "size": 2989665,
+ "notes": "- Las copias con «Cartas sueltas» vacías ya se restauran\n- Poner nombres ya no borra los detalles ni la ★\n- Al borrar o actualizar una colección se corrigen los vínculos de las sueltas\n- Cambiar los tramos quita los de antes\n- Más arreglos pequeños"
 }
