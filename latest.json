@@ -1,6 +1,6 @@
 {
-  "version": "3.4.1",
-  "apk": "GotchaDex-3.4.1.apk",
-  "size": 2249129,
-  "notes": "- Nueva pantalla de «Nueva colección»: buscador arriba, juegos en mosaicos y el resto ordenado por secciones\n- Detalles de cada carta y cartas sueltas (de la 3.4)"
+  "version": "3.4.2",
+  "apk": "GotchaDex-3.4.2.apk",
+  "size": 2249133,
+  "notes": "- Los juegos de «Nueva colección» llevan una carta real como icono: Charizard, Loto Negro, Dragón Blanco de Ojos Azules y Zoro\n- Lorcana sale del menú (sigue en el buscador)"
 }
