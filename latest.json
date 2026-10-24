@@ -1,6 +1,6 @@
 {
- "version": "3.5.4",
- "apk": "GotchaDex-3.5.4.apk",
- "size": 2991709,
- "notes": "- Álbumes por equipos (Liga Este…): cada equipo en su propia hoja\n- Las rarezas van al final de cada equipo y las secciones especiales al final del álbum\n- Se ve el número real del cromo (18B, 6BIS…)\n- «Ordenar por equipos» en el menú de la colección"
+ "version": "3.5.5",
+ "apk": "GotchaDex-3.5.5.apk",
+ "size": 2991493,
+ "notes": "- Marcar varias: ahora puedes elegir varias categorías (equipos, secciones…) a la vez\n- Álbumes por equipos: cada equipo en su hoja y las rarezas al final\n- Se ve el número real del cromo (18B, 6BIS…)"
 }
