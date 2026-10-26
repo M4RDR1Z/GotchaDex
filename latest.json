@@ -1,6 +1,6 @@
 {
- "version": "3.6",
- "apk": "GotchaDex-3.6.apk",
- "size": 3017509,
- "notes": "- El inicio va por apartados: Pokémon, Dragon Ball, Liga Este…\n- Cada colección se coloca sola; puedes cambiar su apartado en «Editar»\n- Elige la portada de cada colección: abre una carta y toca «Usar como portada»"
+ "version": "3.6.1",
+ "apk": "GotchaDex-3.6.1.apk",
+ "size": 3025197,
+ "notes": "- Al crear una colección eliges en qué apartado guardarla\n- Puedes crear apartados vacíos y añadirles colecciones con su «+»\n- Toca el título de un apartado para cambiarle el nombre o quitarlo"
 }
