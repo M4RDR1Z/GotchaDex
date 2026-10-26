@@ -2,6 +2,36 @@
  "updated": "2026-10-26",
  "cards": {
   "tot2024": {
+   "PAL 012": {
+    "tp": {
+     "market": 0.16,
+     "low": 0.04,
+     "id": 568512
+    },
+    "cm": {
+     "trend": 0.08,
+     "avg30": 0.11,
+     "low": 0.02,
+     "trendHolo": null,
+     "avg30Holo": null,
+     "id": 785582
+    }
+   },
+   "PAL 050": {
+    "tp": {
+     "market": 0.13,
+     "low": 0.02,
+     "id": 568513
+    },
+    "cm": {
+     "trend": 0.06,
+     "avg30": 0.07,
+     "low": 0.02,
+     "trendHolo": null,
+     "avg30Holo": null,
+     "id": 785585
+    }
+   },
    "OBF 130": {
     "tp": {
      "market": 0.5,
@@ -15,6 +45,21 @@
      "trendHolo": null,
      "avg30Holo": null,
      "id": 785587
+    }
+   },
+   "OBF 131": {
+    "tp": {
+     "market": 0.16,
+     "low": 0.01,
+     "id": 568705
+    },
+    "cm": {
+     "trend": 0.06,
+     "avg30": 0.06,
+     "low": 0.02,
+     "trendHolo": null,
+     "avg30Holo": null,
+     "id": 785589
     }
    },
    "OBF 133": {
@@ -92,6 +137,36 @@
      "id": 785604
     }
    },
+   "PAF 018": {
+    "tp": {
+     "market": 1.97,
+     "low": 0.9,
+     "id": 569132
+    },
+    "cm": {
+     "trend": 2.11,
+     "avg30": 2.25,
+     "low": 0.99,
+     "trendHolo": null,
+     "avg30Holo": null,
+     "id": 785608
+    }
+   },
+   "PAF 037": {
+    "tp": {
+     "market": 0.97,
+     "low": 0.35,
+     "id": 569227
+    },
+    "cm": {
+     "trend": 0.76,
+     "avg30": 0.6,
+     "low": 0.1,
+     "trendHolo": null,
+     "avg30Holo": null,
+     "id": 785611
+    }
+   },
    "PAF 042": {
     "tp": {
      "market": 0.12,
@@ -105,6 +180,21 @@
      "trendHolo": null,
      "avg30Holo": null,
      "id": 785612
+    }
+   },
+   "PAF 043": {
+    "tp": {
+     "market": 0.16,
+     "low": 0.02,
+     "id": 569323
+    },
+    "cm": {
+     "trend": 0.07,
+     "avg30": 0.07,
+     "low": 0.02,
+     "trendHolo": null,
+     "avg30Holo": null,
+     "id": 785613
     }
    },
    "PAF 057": {
@@ -150,6 +240,21 @@
      "trendHolo": null,
      "avg30Holo": null,
      "id": 785626
+    }
+   },
+   "TEF 102": {
+    "tp": {
+     "market": 0.18,
+     "low": 0.05,
+     "id": 570320
+    },
+    "cm": {
+     "trend": 0.15,
+     "avg30": 0.14,
+     "low": 0.02,
+     "trendHolo": null,
+     "avg30Holo": null,
+     "id": 785627
     }
    },
    "TEF 103": {
@@ -210,6 +315,21 @@
      "trendHolo": null,
      "avg30Holo": null,
      "id": 785636
+    }
+   },
+   "TWM 021": {
+    "tp": {
+     "market": 0.14,
+     "low": 0.01,
+     "id": 570365
+    },
+    "cm": {
+     "trend": 0.08,
+     "avg30": 0.07,
+     "low": 0.02,
+     "trendHolo": null,
+     "avg30Holo": null,
+     "id": 785638
     }
    },
    "TWM 022": {
@@ -330,86 +450,6 @@
      "trendHolo": null,
      "avg30Holo": null,
      "id": 785656
-    }
-   },
-   "PAL 012": {
-    "cm": {
-     "trend": 0.08,
-     "avg30": 0.11,
-     "low": 0.02,
-     "trendHolo": null,
-     "avg30Holo": null,
-     "id": 785582
-    }
-   },
-   "PAL 050": {
-    "cm": {
-     "trend": 0.06,
-     "avg30": 0.07,
-     "low": 0.02,
-     "trendHolo": null,
-     "avg30Holo": null,
-     "id": 785585
-    }
-   },
-   "OBF 131": {
-    "cm": {
-     "trend": 0.06,
-     "avg30": 0.06,
-     "low": 0.02,
-     "trendHolo": null,
-     "avg30Holo": null,
-     "id": 785589
-    }
-   },
-   "PAF 018": {
-    "cm": {
-     "trend": 2.11,
-     "avg30": 2.25,
-     "low": 0.99,
-     "trendHolo": null,
-     "avg30Holo": null,
-     "id": 785608
-    }
-   },
-   "PAF 037": {
-    "cm": {
-     "trend": 0.76,
-     "avg30": 0.6,
-     "low": 0.1,
-     "trendHolo": null,
-     "avg30Holo": null,
-     "id": 785611
-    }
-   },
-   "PAF 043": {
-    "cm": {
-     "trend": 0.07,
-     "avg30": 0.07,
-     "low": 0.02,
-     "trendHolo": null,
-     "avg30Holo": null,
-     "id": 785613
-    }
-   },
-   "TEF 102": {
-    "cm": {
-     "trend": 0.15,
-     "avg30": 0.14,
-     "low": 0.02,
-     "trendHolo": null,
-     "avg30Holo": null,
-     "id": 785627
-    }
-   },
-   "TWM 021": {
-    "cm": {
-     "trend": 0.08,
-     "avg30": 0.07,
-     "low": 0.02,
-     "trendHolo": null,
-     "avg30Holo": null,
-     "id": 785638
     }
    }
   },

@@ -17,29 +17,23 @@
   "Trick or Trade BOOster Bundle 2024": {
    "year": "2024",
    "products": 35,
-   "found": 22,
-   "missing": [
-    "Sprigatito",
-    "Quaxly",
-    "Houndour",
-    "Pikachu",
-    "Mimikyu",
-    "Houndstone",
-    "Gastly",
-    "Poltchageist"
-   ]
+   "found": 30,
+   "missing": [],
+   "productNames": []
   },
   "Trick or Trade BOOster Bundle 2023": {
    "year": "2023",
    "products": 34,
    "found": 30,
-   "missing": []
+   "missing": [],
+   "productNames": []
   },
   "Trick or Trade BOOster Bundle": {
    "year": "2022",
    "products": 33,
    "found": 30,
-   "missing": []
+   "missing": [],
+   "productNames": []
   }
  },
  "cardmarket": {
