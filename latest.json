@@ -1,6 +1,6 @@
 {
- "version": "3.6.3",
- "apk": "GotchaDex-3.6.3.apk",
- "size": 3027757,
- "notes": "- Pliega los apartados del inicio con su flecha\n- Al buscar una carta en el inicio puedes buscar solo en un apartado"
+ "version": "3.7",
+ "apk": "GotchaDex-3.7.apk",
+ "size": 3050573,
+ "notes": "- Precios de mercado: Pokémon, Magic y Yu-Gi-Oh! (Cardmarket o TCGplayer), One Piece y Lorcana (TCGplayer)\n- Cuánto vale lo que tienes y cuánto cuesta lo que te falta\n- Mueve una colección dentro de su apartado desde su menú"
 }
