@@ -1,6 +1,6 @@
 {
- "version": "3.7",
- "apk": "GotchaDex-3.7.apk",
- "size": 3050573,
- "notes": "- Precios de mercado: Pokémon, Magic y Yu-Gi-Oh! (Cardmarket o TCGplayer), One Piece y Lorcana (TCGplayer)\n- Cuánto vale lo que tienes y cuánto cuesta lo que te falta\n- Mueve una colección dentro de su apartado desde su menú"
+ "version": "3.7.1",
+ "apk": "GotchaDex-3.7.1.apk",
+ "size": 3053273,
+ "notes": "- Idioma de cada colección (en «Editar»): en Magic se busca el precio de esa versión\n- Los precios se actualizan solos al abrir la colección si tienen más de 7 días"
 }
