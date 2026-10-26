@@ -25,6 +25,7 @@ def get(url):
 def key(s):
     """«Mimikyu ex (Trick or Trade)» -> «mimikyuex»"""
     s = re.sub(r"\s*[\[(].*$", "", str(s or ""))
+    s = re.sub(r"\s+-\s+.*$", "", s)  # «Sprigatito - 012/193»
     s = unicodedata.normalize("NFD", s)
     return re.sub(r"[^a-z0-9]", "", s.lower())
 
@@ -74,7 +75,8 @@ try:
             tp = {"market": r2(base.get("marketPrice")) or r2(base.get("midPrice")), "low": r2(base.get("lowPrice")), "id": cands[0]["productId"]}
             out["cards"][f"tot{y}"].setdefault(code, {})["tp"] = tp
             found += 1
-        diag["tcgplayer"][g["name"]] = {"year": y, "products": len(products), "found": found, "missing": missing}
+        diag["tcgplayer"][g["name"]] = {"year": y, "products": len(products), "found": found, "missing": missing,
+                                        "productNames": sorted(p.get("name", "") for p in products) if missing else []}
 except Exception as e:
     diag["tcgplayer"]["error"] = repr(e)
 
