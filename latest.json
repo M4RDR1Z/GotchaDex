@@ -1,6 +1,6 @@
 {
- "version": "3.7.2",
- "apk": "GotchaDex-3.7.2.apk",
- "size": 3053217,
- "notes": "- Los precios se actualizan solos al entrar en la colección (una vez al día)\n- Pokémon: colección en inglés → precio de TCGplayer; en español → Cardmarket"
+ "version": "3.7.3",
+ "apk": "GotchaDex-3.7.3.apk",
+ "size": 3056033,
+ "notes": "- Al cambiar el idioma de una colección cambian también las imágenes y nombres (Pokémon y Magic, si la web los tiene)\n- Avisa de cuántas cartas tienen precio y cuántas imágenes hay en ese idioma\n- Ya no se mezclan precios viejos con los nuevos"
 }
