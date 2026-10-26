@@ -1,6 +1,6 @@
 {
- "version": "3.7.3",
- "apk": "GotchaDex-3.7.3.apk",
- "size": 3056033,
- "notes": "- Al cambiar el idioma de una colección cambian también las imágenes y nombres (Pokémon y Magic, si la web los tiene)\n- Avisa de cuántas cartas tienen precio y cuántas imágenes hay en ese idioma\n- Ya no se mezclan precios viejos con los nuevos"
+ "version": "3.7.4",
+ "apk": "GotchaDex-3.7.4.apk",
+ "size": 3055865,
+ "notes": "- Arreglo: el cambio de idioma no se aplicaba si se estaban cargando los precios\n- En Pokémon el idioma cambia imagen, nombre y rareza de cada carta"
 }
