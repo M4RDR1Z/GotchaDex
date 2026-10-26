@@ -1,6 +1,6 @@
 {
- "version": "3.6.2",
- "apk": "GotchaDex-3.6.2.apk",
- "size": 3027057,
- "notes": "- Ordena los apartados del inicio: toca su título y «Subir» o «Bajar»\n- Al actualizar una lista desde la web ya no se pierde su apartado\n- Lo que te pasan por compartir ya no cae en el último apartado que elegiste\n- Arreglo en la vista álbum al cambiar de filtro"
+ "version": "3.6.3",
+ "apk": "GotchaDex-3.6.3.apk",
+ "size": 3027757,
+ "notes": "- Pliega los apartados del inicio con su flecha\n- Al buscar una carta en el inicio puedes buscar solo en un apartado"
 }
