@@ -1,0 +1,124 @@
+{
+ "tcgplayer": {
+  "groups": [
+   {
+    "id": 23561,
+    "name": "Trick or Trade BOOster Bundle 2024"
+   },
+   {
+    "id": 23266,
+    "name": "Trick or Trade BOOster Bundle 2023"
+   },
+   {
+    "id": 3179,
+    "name": "Trick or Trade BOOster Bundle"
+   }
+  ],
+  "Trick or Trade BOOster Bundle 2024": {
+   "year": "2024",
+   "products": 35,
+   "found": 22,
+   "missing": [
+    "Sprigatito",
+    "Quaxly",
+    "Houndour",
+    "Pikachu",
+    "Mimikyu",
+    "Houndstone",
+    "Gastly",
+    "Poltchageist"
+   ]
+  },
+  "Trick or Trade BOOster Bundle 2023": {
+   "year": "2023",
+   "products": 34,
+   "found": 30,
+   "missing": []
+  },
+  "Trick or Trade BOOster Bundle": {
+   "year": "2022",
+   "products": 33,
+   "found": 30,
+   "missing": []
+  }
+ },
+ "cardmarket": {
+  "guideDate": "2026-10-26T02:47:18+0100",
+  "2024": [
+   {
+    "idExpansion": 5796,
+    "size": 36,
+    "matches": 36,
+    "added": "2024-08-27",
+    "sample": [
+     "Sprigatito [Gather Sunlight | Seed Bomb]",
+     "Quaxly [Reckless Charge]",
+     "Umbreon [Feint Attack | Pitch-Black Blade]",
+     "Houndour [Coordinated Pack | Focus Fangs]",
+     "Houndoom [Daring Strike | Shadow Slash]",
+     "Darkrai [Dark Slumber | Night Cyclone]"
+    ]
+   }
+  ],
+  "2023": [
+   {
+    "idExpansion": 5405,
+    "size": 30,
+    "matches": 30,
+    "added": "2023-09-04",
+    "sample": [
+     "Sinistea [Teatime]",
+     "Polteageist [Teatime | Poltergeist]",
+     "Galarian Runerigus [Spreading Spite | Mad Hammer]",
+     "Dhelmise [Hook | Special Anchor]",
+     "Duskull [Future Sight]",
+     "Dusclops [Confuse Ray | Psypunch]"
+    ]
+   },
+   {
+    "idExpansion": 5138,
+    "size": 30,
+    "matches": 18,
+    "added": "2022-08-19",
+    "sample": [
+     "Pikachu [Energize | Electro Ball]",
+     "Cubone [Beat | Headbutt]",
+     "Zubat [Hide in Shadows | Speed Dive]",
+     "Gastly [Sleep Pulse]",
+     "Haunter [Will-O-Wisp]",
+     "Gengar [Last Gift | Pain Burst]"
+    ]
+   }
+  ],
+  "2022": [
+   {
+    "idExpansion": 5138,
+    "size": 30,
+    "matches": 30,
+    "added": "2022-08-19",
+    "sample": [
+     "Pikachu [Energize | Electro Ball]",
+     "Cubone [Beat | Headbutt]",
+     "Zubat [Hide in Shadows | Speed Dive]",
+     "Gastly [Sleep Pulse]",
+     "Haunter [Will-O-Wisp]",
+     "Gengar [Last Gift | Pain Burst]"
+    ]
+   },
+   {
+    "idExpansion": 5405,
+    "size": 30,
+    "matches": 18,
+    "added": "2023-09-04",
+    "sample": [
+     "Sinistea [Teatime]",
+     "Polteageist [Teatime | Poltergeist]",
+     "Galarian Runerigus [Spreading Spite | Mad Hammer]",
+     "Dhelmise [Hook | Special Anchor]",
+     "Duskull [Future Sight]",
+     "Dusclops [Confuse Ray | Psypunch]"
+    ]
+   }
+  ]
+ }
+}
