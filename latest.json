@@ -1,6 +1,6 @@
 {
- "version": "3.5.6",
- "apk": "GotchaDex-3.5.6.apk",
- "size": 2996925,
- "notes": "- Menú de la colección más claro: lo más usado arriba y el resto por grupos, con iconos\n- Marcar varias: puedes elegir varias categorías a la vez\n- Álbumes por equipos: cada equipo en su hoja y las rarezas al final"
+ "version": "3.5.7",
+ "apk": "GotchaDex-3.5.7.apk",
+ "size": 3013649,
+ "notes": "- Álbumes por equipos: las listas de faltantes y repes van por equipo («Real Madrid: 1, 5, 18B»)\n- Comparar para cambiar entiende esas listas\n- «Nombres y rarezas» ya no mezcla equipos con el mismo número\n- Marcar varias: elige equipos y escribe números para marcar solo dentro de ellos\n- En la cuadrícula sale el nombre de cada equipo"
 }
