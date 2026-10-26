@@ -1,6 +1,6 @@
 {
- "version": "3.6.1",
- "apk": "GotchaDex-3.6.1.apk",
- "size": 3025197,
- "notes": "- Al crear una colección eliges en qué apartado guardarla\n- Puedes crear apartados vacíos y añadirles colecciones con su «+»\n- Toca el título de un apartado para cambiarle el nombre o quitarlo"
+ "version": "3.6.2",
+ "apk": "GotchaDex-3.6.2.apk",
+ "size": 3027057,
+ "notes": "- Ordena los apartados del inicio: toca su título y «Subir» o «Bajar»\n- Al actualizar una lista desde la web ya no se pierde su apartado\n- Lo que te pasan por compartir ya no cae en el último apartado que elegiste\n- Arreglo en la vista álbum al cambiar de filtro"
 }
