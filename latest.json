@@ -1,6 +1,6 @@
 {
- "version": "3.9",
- "apk": "GotchaDex-3.9.apk",
- "size": 3069213,
- "notes": "- Fotos de varios cromos de una vez: elige equipo y números (1-9), haz una foto de los cromos sueltos en filas y cada uno se guarda como foto de su cromo\n- En la ficha de una carta pasa a la siguiente deslizando o con las flechas"
+ "version": "4.0",
+ "apk": "GotchaDex-4.0.apk",
+ "size": 3107301,
+ "notes": "- Nueva pantalla de Ajustes (rueda del inicio): tema claro u oscuro, vista, idioma de la app, copias y ayuda\n- Preguntas frecuentes y «Enviar sugerencia o error»\n- Copia automática de Android: tus colecciones se guardan en tu cuenta de Google\n- Bienvenida nueva para empezar en 3 pasos"
 }
