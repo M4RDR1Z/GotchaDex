@@ -1,6 +1,6 @@
 {
- "version": "3.8.3",
- "apk": "GotchaDex-3.8.3.apk",
- "size": 3061441,
- "notes": "- En la ficha de una carta pasa a la siguiente o la anterior deslizando sobre la carta o con las flechas\n- Sigue el orden de lo que ves en la colección (con tus filtros)"
+ "version": "3.9",
+ "apk": "GotchaDex-3.9.apk",
+ "size": 3069213,
+ "notes": "- Fotos de varios cromos de una vez: elige equipo y números (1-9), haz una foto de los cromos sueltos en filas y cada uno se guarda como foto de su cromo\n- En la ficha de una carta pasa a la siguiente deslizando o con las flechas"
 }
