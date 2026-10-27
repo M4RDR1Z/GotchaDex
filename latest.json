@@ -1,6 +1,6 @@
 {
- "version": "3.8",
- "apk": "GotchaDex-3.8.apk",
- "size": 3058593,
- "notes": "- Trick or Trade ya tiene precios de verdad, los de la carta con calabaza: en español Cardmarket (media de 30 días) y en inglés TCGplayer\n- Se actualizan cada día"
+ "version": "3.8.1",
+ "apk": "GotchaDex-3.8.1.apk",
+ "size": 3060477,
+ "notes": "- Se quitan los precios de mercado de la app\n- El idioma de cada colección sigue cambiando las imágenes y los nombres de las cartas"
 }
