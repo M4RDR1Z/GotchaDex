@@ -1,6 +1,6 @@
 {
- "version": "3.8.2",
- "apk": "GotchaDex-3.8.2.apk",
- "size": 3060561,
- "notes": "- Cambiar el idioma de una colección de Pokémon va el doble de rápido\n- Quitar el idioma ya no pasa las cartas al inglés"
+ "version": "3.8.3",
+ "apk": "GotchaDex-3.8.3.apk",
+ "size": 3061441,
+ "notes": "- En la ficha de una carta pasa a la siguiente o la anterior deslizando sobre la carta o con las flechas\n- Sigue el orden de lo que ves en la colección (con tus filtros)"
 }
