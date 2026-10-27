@@ -1,6 +1,6 @@
 {
- "version": "3.8.1",
- "apk": "GotchaDex-3.8.1.apk",
- "size": 3060477,
- "notes": "- Se quitan los precios de mercado de la app\n- El idioma de cada colección sigue cambiando las imágenes y los nombres de las cartas"
+ "version": "3.8.2",
+ "apk": "GotchaDex-3.8.2.apk",
+ "size": 3060561,
+ "notes": "- Cambiar el idioma de una colección de Pokémon va el doble de rápido\n- Quitar el idioma ya no pasa las cartas al inglés"
 }
