@@ -1,6 +1,6 @@
 {
- "version": "4.0",
- "apk": "GotchaDex-4.0.apk",
- "size": 3107301,
- "notes": "- Nueva pantalla de Ajustes (rueda del inicio): tema claro u oscuro, vista, idioma de la app, copias y ayuda\n- Preguntas frecuentes y «Enviar sugerencia o error»\n- Copia automática de Android: tus colecciones se guardan en tu cuenta de Google\n- Bienvenida nueva para empezar en 3 pasos"
+ "version": "4.1",
+ "apk": "GotchaDex-4.1.apk",
+ "size": 3107185,
+ "notes": "- Tablets y móvil en horizontal: el álbum se ve con dos hojas a la vez y el inicio en columnas\n- Mejor con el lector de pantalla y con la letra grande del móvil"
 }
