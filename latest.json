@@ -1,6 +1,6 @@
 {
- "version": "4.2.2",
- "apk": "GotchaDex-4.2.2.apk",
- "size": 3113297,
- "notes": "Móvil sin espacio: aviso y sin perder datos. Al desinstalar, opción de conservar los datos"
+ "version": "4.3",
+ "apk": "GotchaDex-4.3.apk",
+ "size": 3115597,
+ "notes": "Nuevo sistema de repes (tocar marca/desmarca, «+» suma repe, mantener abre contador). Digimon con nombres de sobres y rarezas"
 }
