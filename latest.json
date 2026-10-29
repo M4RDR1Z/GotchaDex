@@ -1,6 +1,6 @@
 {
- "version": "4.3.1",
- "apk": "GotchaDex-4.3.1.apk",
- "size": 3100337,
- "notes": "Buscar cartas nuevas en las colecciones del buscador; arreglo del idioma de Magic; limpieza"
+ "version": "4.4",
+ "apk": "GotchaDex-4.4.apk",
+ "size": 3117029,
+ "notes": "Desplegable «Completadas» en el inicio"
 }
