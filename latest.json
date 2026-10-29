@@ -1,6 +1,6 @@
 {
- "version": "4.6.1",
- "apk": "GotchaDex-4.6.1.apk",
- "size": 3119069,
- "notes": "Listas de faltas y repes solo con los números"
+ "version": "4.6.2",
+ "apk": "GotchaDex-4.6.2.apk",
+ "size": 3119197,
+ "notes": "La lista de faltas empieza por el nombre de la colección"
 }
