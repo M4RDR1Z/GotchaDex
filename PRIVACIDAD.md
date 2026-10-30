@@ -1,6 +1,6 @@
 # Política de privacidad de GotchaDex
 
-*Última actualización: 29 de octubre de 2026*
+*Última actualización: 30 de octubre de 2026*
 
 GotchaDex es una app para llevar tus colecciones de cartas y cromos, creada por **M4RDR1Z**.
 Es una app no oficial: no está afiliada a ninguna de las marcas de cartas o cromos que aparecen en ella.
@@ -43,7 +43,7 @@ Play; la app no ve tu valoración ni tu cuenta.
 
 ## Sugerencias y errores
 
-Si usas «Enviar sugerencia o error», se abre tu correo o GitHub con la versión de la app y el modelo del móvil ya
+Si usas «Enviar sugerencia o error», se abre tu correo (dirigido a marcosonlygames@gmail.com) con la versión de la app y el modelo del móvil ya
 escritos; tú decides si lo envías.
 
 ## Menores
@@ -57,13 +57,13 @@ copia de Android, ve a la copia de seguridad de tu cuenta de Google.
 
 ## Contacto
 
-Para cualquier duda: [github.com/M4RDR1Z/GotchaDex/issues](https://github.com/M4RDR1Z/GotchaDex/issues).
+Para cualquier duda: **marcosonlygames@gmail.com** o [github.com/M4RDR1Z/GotchaDex/issues](https://github.com/M4RDR1Z/GotchaDex/issues).
 
 ---
 
 # GotchaDex privacy policy (English)
 
-*Last updated: 29 October 2026*
+*Last updated: 30 October 2026*
 
 GotchaDex is an unofficial, fan-made app by **M4RDR1Z** to track card and sticker collections.
 
@@ -77,4 +77,4 @@ GotchaDex is an unofficial, fan-made app by **M4RDR1Z** to track card and sticke
 - **Camera and photos** use Android's own pickers; no camera or storage permission is requested.
 - **Ratings** (Google Play version): Google Play may show its rating window once; the app never sees your rating.
 - **Delete your data** by deleting collections in the app or uninstalling it.
-- Contact: [github.com/M4RDR1Z/GotchaDex/issues](https://github.com/M4RDR1Z/GotchaDex/issues).
+- Contact: **marcosonlygames@gmail.com** or [github.com/M4RDR1Z/GotchaDex/issues](https://github.com/M4RDR1Z/GotchaDex/issues).
