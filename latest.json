@@ -1,6 +1,6 @@
 {
- "version": "4.7",
- "apk": "GotchaDex-4.7.apk",
- "size": 3069977,
- "notes": "Riftbound en el buscador. Fotos conservadas al actualizar listas y .csv de Excel con tildes"
+ "version": "4.7.1",
+ "apk": "GotchaDex-4.7.1.apk",
+ "size": 3076685,
+ "notes": "Aviso en el buscador para las webs más delicadas (Palworld, cromos, Riftbound, Digimon)"
 }
