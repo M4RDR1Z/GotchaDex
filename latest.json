@@ -1,6 +1,6 @@
 {
- "version": "4.6.7",
- "apk": "GotchaDex-4.6.7.apk",
- "size": 3069597,
- "notes": "Al borrar la búsqueda, el álbum vuelve a tu hoja. Textos corregidos"
+ "version": "4.7",
+ "apk": "GotchaDex-4.7.apk",
+ "size": 3069977,
+ "notes": "Riftbound en el buscador. Fotos conservadas al actualizar listas y .csv de Excel con tildes"
 }
