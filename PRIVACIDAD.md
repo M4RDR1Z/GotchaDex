@@ -1,6 +1,6 @@
 # Política de privacidad de GotchaDex
 
-*Última actualización: 3 de noviembre de 2026*
+*Última actualización: 3 de noviembre de 2026 (4.8)*
 
 GotchaDex es una app para llevar tus colecciones de cartas y cromos, creada por **M4RDR1Z**.
 Es una app no oficial: no está afiliada a ninguna de las marcas de cartas o cromos que aparecen en ella.
@@ -17,12 +17,12 @@ ningún dato tuyo.
 
 ## Lectura de texto en fotos (Google ML Kit)
 
-La función «Foto del checklist» lee el texto de la foto **en el propio móvil** con Google ML Kit (a través de los
+Las funciones «Foto del checklist» y «Escanear carta» leen el texto de la foto **en el propio móvil** con Google ML Kit (a través de los
 servicios de Google Play). La foto no sale del móvil. Según Google, ML Kit puede enviar a Google datos técnicos de
 diagnóstico (modelo del móvil, versión de Android, nombre y versión de la app, tiempos y errores de la función),
 cifrados y sin compartirlos con terceros. Más información:
 [developers.google.com/ml-kit/android-data-disclosure](https://developers.google.com/ml-kit/android-data-disclosure).
-Si no usas esa función, no se envía nada.
+Si no usas esas funciones, no se envía nada.
 
 ## Conexiones a internet
 
@@ -70,7 +70,7 @@ GotchaDex is an unofficial, fan-made app by **M4RDR1Z** to track card and sticke
 
 - **The author collects no data.** No accounts, own servers, analytics or ads. Collections and photos stay on your
   phone; Android's own backup may store them in **your** Google account.
-- **Checklist photo** reads text on the device with Google ML Kit (Google Play services). The photo never leaves the
+- **Checklist photo** and **Scan a card** read text on the device with Google ML Kit (Google Play services). The photo never leaves the
   phone; Google may receive technical diagnostics (device model, OS and app version, latency, errors), encrypted and
   not shared with third parties. See [ML Kit data disclosure](https://developers.google.com/ml-kit/android-data-disclosure).
 - **Internet** is only used to download public card lists and images from the sites listed above (they can see your
