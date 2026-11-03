@@ -1,6 +1,6 @@
 # Política de privacidad de GotchaDex
 
-*Última actualización: 30 de octubre de 2026*
+*Última actualización: 3 de noviembre de 2026*
 
 GotchaDex es una app para llevar tus colecciones de cartas y cromos, creada por **M4RDR1Z**.
 Es una app no oficial: no está afiliada a ninguna de las marcas de cartas o cromos que aparecen en ella.
@@ -27,7 +27,8 @@ Si no usas esa función, no se envía nada.
 ## Conexiones a internet
 
 La app solo **descarga** información pública: listas e imágenes de cartas (TCGdex, WikiDex, Scryfall, YGOPRODeck,
-OPTCG API, Lorcast, swu-db.com, DigimonCard.io, palworldtcg.gg, LastSticker, Coleka, dragonball.center) y, en la
+OPTCG API, Lorcast, swu-db.com, Riftcodex y las imágenes de Riot Games, DigimonCard.io, palworldtcg.gg, LastSticker,
+Coleka, dragonball.center, Limitless) y, en la
 versión de GitHub, el aviso de versiones nuevas desde GitHub. Esas webs pueden ver, como cualquier web, la dirección
 IP desde la que se conecta el móvil. La app no les envía ningún dato tuyo.
 
@@ -63,7 +64,7 @@ Para cualquier duda: **marcosonlygames@gmail.com** o [github.com/M4RDR1Z/GotchaD
 
 # GotchaDex privacy policy (English)
 
-*Last updated: 30 October 2026*
+*Last updated: 3 November 2026*
 
 GotchaDex is an unofficial, fan-made app by **M4RDR1Z** to track card and sticker collections.
 
