@@ -1,9 +1,9 @@
 # Política de privacidad de GotchaDex
 
-*Última actualización: 3 de noviembre de 2026 (4.8)*
+*Última actualización: 17 de noviembre de 2026 (5.1)*
 
-GotchaDex es una app para llevar tus colecciones de cartas y cromos, creada por **M4RDR1Z**.
-Es una app no oficial: no está afiliada a ninguna de las marcas de cartas o cromos que aparecen en ella.
+GotchaDex es una app para llevar tus colecciones de cartas Pokémon, creada por **M4RDR1Z**.
+Es una app no oficial: no está afiliada a Nintendo ni a The Pokémon Company.
 
 ## Qué datos recoge el autor
 
@@ -13,7 +13,7 @@ ningún dato tuyo.
 - Tus colecciones, marcas y fotos se guardan **solo en tu móvil**, en la carpeta privada de la app.
 - Si tienes activada la copia de seguridad de Android, **Android** guarda tus colecciones en **tu** cuenta de Google
   (no las ve nadie más, tampoco el autor de la app).
-- Las copias de seguridad y listas que compartes son archivos que generas y envías tú.
+- Las copias de seguridad y las listas de faltas o repes que compartes las generas y las envías tú.
 
 ## Lectura de texto en fotos (Google ML Kit)
 
@@ -26,10 +26,8 @@ Si no usas esas funciones, no se envía nada.
 
 ## Conexiones a internet
 
-La app solo **descarga** información pública: listas e imágenes de cartas (TCGdex, WikiDex, Scryfall, YGOPRODeck,
-OPTCG API, Lorcast, swu-db.com, Riftcodex y las imágenes de Riot Games, DigimonCard.io, palworldtcg.gg, LastSticker,
-Coleka, dragonball.center, Limitless) y, en la
-versión de GitHub, el aviso de versiones nuevas desde GitHub. Esas webs pueden ver, como cualquier web, la dirección
+La app solo **descarga** información pública: listas e imágenes de cartas de TCGdex y WikiDex, la página web que tú
+pegues para importar una lista y, en la versión de GitHub, el aviso de versiones nuevas desde GitHub. Esas webs pueden ver, como cualquier web, la dirección
 IP desde la que se conecta el móvil. La app no les envía ningún dato tuyo.
 
 ## Cámara y fotos
@@ -64,16 +62,16 @@ Para cualquier duda: **marcosonlygames@gmail.com** o [github.com/M4RDR1Z/GotchaD
 
 # GotchaDex privacy policy (English)
 
-*Last updated: 3 November 2026*
+*Last updated: 17 November 2026*
 
-GotchaDex is an unofficial, fan-made app by **M4RDR1Z** to track card and sticker collections.
+GotchaDex is an unofficial, fan-made app by **M4RDR1Z** to track Pokémon card collections.
 
 - **The author collects no data.** No accounts, own servers, analytics or ads. Collections and photos stay on your
   phone; Android's own backup may store them in **your** Google account.
 - **Checklist photo** and **Scan a card** read text on the device with Google ML Kit (Google Play services). The photo never leaves the
   phone; Google may receive technical diagnostics (device model, OS and app version, latency, errors), encrypted and
   not shared with third parties. See [ML Kit data disclosure](https://developers.google.com/ml-kit/android-data-disclosure).
-- **Internet** is only used to download public card lists and images from the sites listed above (they can see your
+- **Internet** is only used to download public card lists and images from TCGdex and WikiDex, the web page you paste to import a list and, in the GitHub version, update notices from GitHub (they can see your
   IP address like any website). Nothing about you is sent to them.
 - **Camera and photos** use Android's own pickers; no camera or storage permission is requested.
 - **Ratings** (Google Play version): Google Play may show its rating window once; the app never sees your rating.
