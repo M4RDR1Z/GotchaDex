@@ -1,6 +1,6 @@
 {
- "version": "5.1.1",
- "apk": "GotchaDex-5.1.1.apk",
- "size": 2871133,
- "notes": "- Arreglado: al crear un apartado nuevo e ir hacia atrás, la app se quedaba sin responder"
+ "version": "5.1.2",
+ "apk": "GotchaDex-5.1.2.apk",
+ "size": 2871217,
+ "notes": "- Arreglado: la app ya no se queda sin responder al ver una carta en grande o al ir hacia atrás"
 }
