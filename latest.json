@@ -1,6 +1,6 @@
 {
- "version": "5.3",
- "apk": "GotchaDex-5.3.apk",
- "size": 2893929,
- "notes": "- Aviso de sets nuevos de Pokémon al abrir la app\n- Exportar una colección a Excel\n- Importar entiende listas copiadas con «001/204» (sets chinos)"
+ "version": "5.3.1",
+ "apk": "GotchaDex-5.3.1.apk",
+ "size": 2893897,
+ "notes": "- Arreglado: en el buscador vuelven a salir los sets en japonés, coreano y chino"
 }
