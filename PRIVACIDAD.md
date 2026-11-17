@@ -1,6 +1,6 @@
 # Política de privacidad de GotchaDex
 
-*Última actualización: 17 de noviembre de 2026 (5.1)*
+*Última actualización: 17 de noviembre de 2026 (5.3)*
 
 GotchaDex es una app para llevar tus colecciones de cartas Pokémon, creada por **M4RDR1Z**.
 Es una app no oficial: no está afiliada a Nintendo ni a The Pokémon Company.
@@ -27,7 +27,10 @@ Si no usas esas funciones, no se envía nada.
 ## Conexiones a internet
 
 La app solo **descarga** información pública: listas e imágenes de cartas de TCGdex y WikiDex, la página web que tú
-pegues para importar una lista y, en la versión de GitHub, el aviso de versiones nuevas desde GitHub. Esas webs pueden ver, como cualquier web, la dirección
+pegues para importar una lista y, en la versión de GitHub, el aviso de versiones nuevas desde GitHub. Si tienes
+activado «Avisar de sets nuevos» (Ajustes), una vez al día como mucho la app descarga de TCGdex la lista de sets para
+compararla con la que ya conocía.
+Esas webs pueden ver, como cualquier web, la dirección
 IP desde la que se conecta el móvil. La app no les envía ningún dato tuyo.
 
 ## Cámara y fotos
@@ -71,7 +74,7 @@ GotchaDex is an unofficial, fan-made app by **M4RDR1Z** to track Pokémon card c
 - **Checklist photo** and **Scan a card** read text on the device with Google ML Kit (Google Play services). The photo never leaves the
   phone; Google may receive technical diagnostics (device model, OS and app version, latency, errors), encrypted and
   not shared with third parties. See [ML Kit data disclosure](https://developers.google.com/ml-kit/android-data-disclosure).
-- **Internet** is only used to download public card lists and images from TCGdex and WikiDex, the web page you paste to import a list and, in the GitHub version, update notices from GitHub (they can see your
+- **Internet** is only used to download public card lists and images from TCGdex and WikiDex, the web page you paste to import a list, the list of sets from TCGdex at most once a day if "Tell me about new sets" is on (Settings) and, in the GitHub version, update notices from GitHub (they can see your
   IP address like any website). Nothing about you is sent to them.
 - **Camera and photos** use Android's own pickers; no camera or storage permission is requested.
 - **Ratings** (Google Play version): Google Play may show its rating window once; the app never sees your rating.
