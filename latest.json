@@ -1,6 +1,6 @@
 {
- "version": "5.1.2",
- "apk": "GotchaDex-5.1.2.apk",
- "size": 2871217,
- "notes": "- Arreglado: la app ya no se queda sin responder al ver una carta en grande o al ir hacia atrás"
+ "version": "5.2",
+ "apk": "GotchaDex-5.2.apk",
+ "size": 2870417,
+ "notes": "- El álbum se ve entero en la pantalla\n- Cartas sin imagen más claras y portadas sin «PO»\n- Búsqueda más rápida y textos en inglés corregidos"
 }
