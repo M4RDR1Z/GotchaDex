@@ -1,6 +1,6 @@
 {
- "version": "5.2",
- "apk": "GotchaDex-5.2.apk",
- "size": 2870417,
- "notes": "- El álbum se ve entero en la pantalla\n- Cartas sin imagen más claras y portadas sin «PO»\n- Búsqueda más rápida y textos en inglés corregidos"
+ "version": "5.3",
+ "apk": "GotchaDex-5.3.apk",
+ "size": 2893929,
+ "notes": "- Aviso de sets nuevos de Pokémon al abrir la app\n- Exportar una colección a Excel\n- Importar entiende listas copiadas con «001/204» (sets chinos)"
 }
