@@ -1,6 +1,6 @@
 {
- "version": "5.1",
- "apk": "GotchaDex-5.1.apk",
+ "version": "5.1.1",
+ "apk": "GotchaDex-5.1.1.apk",
  "size": 2871133,
- "notes": "- GotchaDex ahora es solo de Pokémon: fuera los cromos, los álbumes por equipos y los juegos de antes - Tus colecciones de otros juegos siguen en «Otras colecciones» - Buscador de Pokémon en español, inglés, japonés, coreano y chino"
+ "notes": "- Arreglado: al crear un apartado nuevo e ir hacia atrás, la app se quedaba sin responder"
 }
