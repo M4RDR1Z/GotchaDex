@@ -1,6 +1,6 @@
 {
- "version": "5.3.1",
- "apk": "GotchaDex-5.3.1.apk",
- "size": 2893897,
- "notes": "- Arreglado: en el buscador vuelven a salir los sets en japonés, coreano y chino"
+ "version": "5.4",
+ "apk": "GotchaDex-5.4.apk",
+ "size": 2925009,
+ "notes": "- Ficha de cada carta con PS, tipo, ataques e ilustrador\n- Ver todas las cartas de un Pokémon en todos los sets\n- El álbum pasa las hojas como un archivador\n- Colecciones favoritas arriba y orden por nombre o progreso"
 }
