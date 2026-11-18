@@ -1,6 +1,6 @@
 {
- "version": "5.5.1",
- "apk": "GotchaDex-5.5.1.apk",
- "size": 2927665,
- "notes": "- Más fluido al pasar las hojas del álbum\n- Arreglos: datos de carta sin conexión, filtro Nuevos, volver atrás y fotos"
+ "version": "5.6",
+ "apk": "GotchaDex-5.6.apk",
+ "size": 2928465,
+ "notes": "- Álbum: pasa las hojas con los botones de abajo\n- Cada hoja del álbum se ve siempre entera"
 }
