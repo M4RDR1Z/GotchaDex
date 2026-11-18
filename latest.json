@@ -1,6 +1,6 @@
 {
- "version": "5.5",
- "apk": "GotchaDex-5.5.apk",
- "size": 2927649,
- "notes": "- Elige cuántas cartas caben en cada hoja del álbum (4, 9, 12 o 16)\n- Arreglado: el álbum enseñaba la hoja siguiente en vez de la actual"
+ "version": "5.5.1",
+ "apk": "GotchaDex-5.5.1.apk",
+ "size": 2927665,
+ "notes": "- Más fluido al pasar las hojas del álbum\n- Arreglos: datos de carta sin conexión, filtro Nuevos, volver atrás y fotos"
 }
