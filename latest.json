@@ -1,6 +1,6 @@
 {
- "version": "5.4",
- "apk": "GotchaDex-5.4.apk",
- "size": 2925009,
- "notes": "- Ficha de cada carta con PS, tipo, ataques e ilustrador\n- Ver todas las cartas de un Pokémon en todos los sets\n- El álbum pasa las hojas como un archivador\n- Colecciones favoritas arriba y orden por nombre o progreso"
+ "version": "5.5",
+ "apk": "GotchaDex-5.5.apk",
+ "size": 2927649,
+ "notes": "- Elige cuántas cartas caben en cada hoja del álbum (4, 9, 12 o 16)\n- Arreglado: el álbum enseñaba la hoja siguiente en vez de la actual"
 }
