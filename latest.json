@@ -1,6 +1,6 @@
 {
- "version": "5.10",
- "apk": "GotchaDex-5.10.apk",
- "size": 2938897,
- "notes": "- Cartas que buscas: todas tus ★ juntas, para compartirlas\n- Últimas conseguidas, por días\n- Cada carta guarda el día en que la conseguiste"
+ "version": "6.0",
+ "apk": "GotchaDex-6.0.apk",
+ "size": 3293813,
+ "notes": "Diseño nuevo: inicio con cabecera de color, álbum más limpio y ficha de la carta más clara. En Ajustes → Aspecto puedes elegir los colores (Pokédex, Índigo, Holo, Pastel o Sencillo). Toca «cartas» o «buscadas» arriba para ver las últimas conseguidas o las que buscas."
 }
